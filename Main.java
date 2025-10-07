@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Commita och pusha hela dan, yeah");
         System.out.println("Funkar det fortfarande idag?");
         System.out.println("Mer push");
+        System.out.println("Mer");
     }
 }
 
